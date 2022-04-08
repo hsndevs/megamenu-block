@@ -1,0 +1,24 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+.megamenu_wrap ul.menu {
+  display: -ms-flexbox;
+  display: flex;
+  gap: 40px;
+  list-style-type: none; }
+
+.wp-block-cgb-block-megamenu {
+  background: orangered;
+  border: 0.2rem solid #292929;
+  color: #292929;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem; }
